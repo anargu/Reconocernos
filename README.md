@@ -1,7 +1,7 @@
 # Reconocernos
 
-![Demo of the AR experience](assets/face_mask_demo_1.jpeg)
-![Demo 2 of the AR experience](assets/face_mask_demo_2.jpeg)
+![Demo of the AR experience](assets/face_mask_demo_1.jpeg | width=100)
+![Demo 2 of the AR experience](assets/face_mask_demo_2.jpeg | width=100)
 Este es un trabajo final del workshop/taller Grasshopper + AR = MAGIA
 organizado por Digital Futures e impartido por el profesor Michael Hurtado.
 
@@ -49,5 +49,13 @@ deseado.
 Como solución, se calcula la distancia entre la mano y la cara para poder tener
 una relación entre ambos y ejecutar una interacción al acercar la mano al
 rostro.
+
+## Otras Referencias
+
+- [glslsandbox](https://glslsandbox.com/?page=1)
+- [The Book of Shaders](https://thebookofshaders.com)
+- [Spark AR](https://sparkar.facebook.com/ar-studio/learn/sparksl/sparksl-api/textures)
+- [SparkArShaders por gcorallo](https://github.com/gcorallo/SparkArShaders)
+- [ar_sfpc de Zach Lieberman](https://github.com/ofzach/ar_sfpc)
 
 
