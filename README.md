@@ -1,7 +1,7 @@
 # Reconocernos
 
-![Demo of the AR experience](assets/face_mask_demo_1.jpeg | width=100)
-![Demo 2 of the AR experience](assets/face_mask_demo_2.jpeg | width=100)
+![Demo of the AR experience](assets/face_mask_demo_1.jpeg|width=100px)
+![Demo 2 of the AR experience](assets/face_mask_demo_2.jpeg|width=100px)
 Este es un trabajo final del workshop/taller Grasshopper + AR = MAGIA
 organizado por Digital Futures e impartido por el profesor Michael Hurtado.
 
